@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manahil Zulfiqar</h1>
-- 🔭 I’m working on building a strong foundation in programming.
+# Hi! I'm Manahil Zulfiqar
 
-- 🌱 I’m currently learning **C++.**
+> Trying to learn, teach, and build my way to the finish line
 
 
-<p align="left">
-</p>
+> reach me @manahilzulfiqar02@gmail.com
